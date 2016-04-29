@@ -25,7 +25,7 @@ HTML and Form Builders for the Laravel Framework [Forms & HTML](https://github.c
 
 Guzzle, an extensible PHP HTTP client [Guzzle, an extensible PHP HTTP client] (https://github.com/guzzle/guzzle).
 
-The DomCrawler component  [DOM navigation for HTML and XML documents]. (https://packagist.org/packages/symfony/dom-crawler).
+The DomCrawler component  [DOM navigation for HTML and XML documents] (https://packagist.org/packages/symfony/dom-crawler).
 
 
 
