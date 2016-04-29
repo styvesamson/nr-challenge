@@ -18,4 +18,6 @@ Route::get('/', function () {
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
+Route::get('/info', 'InfoController@index');
 Route::get('/file', 'FileController@index');
+Route::get('/site', 'SiteController@index');

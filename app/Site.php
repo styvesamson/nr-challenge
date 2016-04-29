@@ -3,7 +3,7 @@ namespace App;
 
 use Jenssegers\Mongodb\Eloquent\Model as Eloquent;
 
-class File extends Eloquent {
+class Site extends Eloquent {
 
     protected $connection = 'mongodb';
     protected $collection = 'site';

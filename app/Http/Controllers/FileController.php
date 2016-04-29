@@ -11,9 +11,9 @@ class FileController extends Controller
 {
     //
     public function index(){
-        $file = new File();
-        $file->name = uniqid();
-        $file->save();
+//        $file = new File();
+//        $file->name = uniqid();
+//        $file->save();
         var_dump(File::all());
         exit;
         

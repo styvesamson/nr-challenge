@@ -20,10 +20,19 @@ Laravel   challenge project  to crawl data from one or more of these links...
 ## Plugins 
 
 A MongoDB based Eloquent model and Query builder for Laravel [Moloquent](https://github.com/jenssegers/laravel-mongodb#installation).
+
 HTML and Form Builders for the Laravel Framework [Forms & HTML](https://github.com/LaravelCollective/html).
+
+Guzzle, an extensible PHP HTTP client [Guzzle, an extensible PHP HTTP client] (https://github.com/guzzle/guzzle).
+
+The DomCrawler component  [DOM navigation for HTML and XML documents]. (https://packagist.org/packages/symfony/dom-crawler).
+
 
 
 ## Test Link
+
+http://your-app-url/site
+
 
 
 ## Contributing

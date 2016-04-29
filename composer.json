@@ -8,14 +8,19 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
         "jenssegers/mongodb": "^3.0",
-        "laravelcollective/html": "^5.2"
+        "laravelcollective/html": "^5.2",
+        "symfony/console": "^2.7",
+        "spatie/http-status-check": "^1.0",
+        "spatie/crawler": "^1.2",
+        "symfony/finder": "^3.0",
+        "symfony/dom-crawler": "^3.0",
+        "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~4.0",
-        "symfony/css-selector": "2.8.*|3.0.*",
-        "symfony/dom-crawler": "2.8.*|3.0.*"
+        "symfony/css-selector": "2.8.*|3.0.*"
     },
     "autoload": {
         "classmap": [
