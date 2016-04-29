@@ -25,8 +25,10 @@ class SiteController extends Controller {
     }
 
     public function index() {
-
-        $this->get_links_cnpq('http://www.cnpq.br/web/guest/licitacoes');
+         /* Crawl a CNPQ  webpage*/
+        $this->get_links_cnpq('http://www.cnpq.br/web/guest/licitacoes');  
+        
+        /* uncomment to crawl also a CÂMARA LEGISLATIVA webpage*/        
         // $this->get_links_camara('http://www.cl.df.gov.br/pt_PT/pregoes');
     }
 
